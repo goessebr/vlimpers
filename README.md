@@ -46,6 +46,7 @@ Je kan PTOW aanvragen voor een volledige dag, een voormiddag, een namiddag of je
 - Sluit de andere tabbladen. Enkel het tabblad met het formulier mag open blijven staan.
 
 ## Just sit back, relax and enjoy the party
+Voer het script uit dat het net geopende browservenster zal overnemen en op basis van het CSV invoerbestand de PTOW dagen zal aanvragen
 ```sh
 python aanvragen_ptow.py
 ```
