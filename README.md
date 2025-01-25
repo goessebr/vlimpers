@@ -38,6 +38,9 @@ Je kan PTOW aanvragen voor een volledige dag, een voormiddag, een namiddag of je
 - Start een Google venster op een poort die we vanuit Selenium kunnen bevragen
   ```sh
   which google-chrome-stable
+  ```
+  
+  ```sh
   /usr/bin/google-chrome-stable --remote-debugging-port=9222 --user-data-dir=".config/google-chrome/Default" "https://vlimpers.vlaanderen.be/"
   ```
 
