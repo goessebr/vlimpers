@@ -1,7 +1,7 @@
 # Requirements
 
 - Python
-- Linux (Andere OS is mogelijk maar hiervoor is geen onderstaande documentatie niet volledig bruikbaar.)
+- Linux (Een ander OS is eveneens mogelijk. De documentatie is echter gericht op gebruik in Linux)
 - Maak een venv aan waar je de python scripts zal uitvoeren. Installeer daarin de requirements uit requirements.txt
   ```sh
   python -m venv ENV_DIR/vlimpers_venv
