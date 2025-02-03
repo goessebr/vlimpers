@@ -14,7 +14,7 @@
 Voer het script uit om een CSV bestand aan te maken met alle dagen die je als PTOW wenst in te voeren. Het script zal alle weekdagen opnemen vanaf jouw startdatum tot en met vandaag.
 
 ```sh
-python maak_overzicht.py
+python maak_overzicht_csv.py
 ```
 - Bevestig dat je een eventueel bestaand data_invoer.csv bestand in de vlimpers repository wil overschrijven.
 - Het script zal je vragen wat de eerste datum is die je wenst op te nemen en zal vervolgens alle werkdagen tot en met vandaag aanvullen.

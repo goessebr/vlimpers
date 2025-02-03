@@ -93,7 +93,7 @@ def vraag_ptow_aan(f_datum, f_opname):
         LOG.exception(e)
 
 
-with open('opgenomen_dagen.csv', newline='') as csv_file:
+with open('data_invoer.csv', newline='') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=",")
     for row in csv_reader:
         dagnaam = row[0]  # maandag tot vrijdag. Informatief, functioneel niet nodig
